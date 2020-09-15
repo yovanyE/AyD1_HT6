@@ -16,6 +16,6 @@ import static org.mockito.Mockito.when;
 import org.mockito.MockitoAnnotations;
 import org.mockito.Spy;
 
-public class AsignarHorarioTest {
+public class PlantillaParaTestNoEditar {
 
 }
